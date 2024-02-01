@@ -36,7 +36,3 @@ El archivo principal de Python que puede ser parte de la implementación princip
 ## Instrucciones de Uso
 
 - Asegúrate de revisar la documentación específica dentro de cada archivo para obtener información detallada sobre su funcionalidad y cómo utilizarlos.
-
----
-
-**Nota:** Esta es solo una plantilla básica y deberías personalizarla según las necesidades específicas de tu proyecto. Además, siéntete libre de agregar más secciones o detalles que consideres relevantes.
